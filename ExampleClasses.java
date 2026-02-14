@@ -1,6 +1,6 @@
 public class ExampleClasses {
     public static void main(String[] args) {
-        // Criando um objeto da classe Pessoa
+        
         Person person = new Person();
         person.name = "Celia";
         person.age = 40;
@@ -13,4 +13,5 @@ public class ExampleClasses {
 class Person {
     String name;
     int age;
+
 }
